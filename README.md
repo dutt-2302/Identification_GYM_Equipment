@@ -1,1 +1,6 @@
-# Identification_GYM_Equipment
+# Key Skills Used
+OpenCv
+Resnet50
+Pandas
+Numpy
+
